@@ -1,4 +1,3 @@
-# Script from: https://raw.githubusercontent.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/master/util_scripts/create_csv.py
 # Script to create CSV data file from Pascal VOC annotation files
 # Based off code from GitHub user datitran: https://github.com/datitran/raccoon_dataset/blob/master/xml_to_csv.py
 
